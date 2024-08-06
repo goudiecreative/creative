@@ -855,7 +855,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"images/goudieicon_atlas_1.png", id:"goudieicon_atlas_1"}
+		{src:"https://raw.githack.com/goudiecreative/creative/main/images/goudieicon_atlas_1.png", id:"goudieicon_atlas_1"}
 	],
 	preloads: []
 };
