@@ -775,7 +775,7 @@ lib.properties = {
 	color: "#FFFFFF",
 	opacity: 1.00,
 	manifest: [
-		{src:"https://raw.githubusercontent.com/goudiecreative/creative/main/images/Untitled_1_atlas_1.png", id:"Untitled_1_atlas_1"}
+		{src:"https://raw.githack.com/goudiecreative/creative/main/images/Untitled_1_atlas_1.png", id:"Untitled_1_atlas_1"}
 	],
 	preloads: []
 };
